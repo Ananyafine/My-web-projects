@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#myCarousel{
+    background-color: darkgoldenrod;
+    padding: 20px;
+    
+}
+#myCarousel img{
+    height: 300px;
+    width: 300px
+    
+}
+#myCarousel p{
+    font-size: 20px;
+    color: deeppink;
+}
